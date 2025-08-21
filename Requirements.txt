@@ -1,0 +1,12 @@
+pip install pillow
+pip install mysql_connector
+pip install qrcode
+pip install opencv-python
+pip install geopy
+pip install timezonefinder
+pip install requests
+pip install pytz
+pip install tkintermapview
+pip install ultralytics
+pip install cvzone
+pip install pandas
